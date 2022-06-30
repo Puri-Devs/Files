@@ -201,7 +201,7 @@ $MAX_UPLOAD_SIZE = min(asBytes(ini_get('post_max_size')), asBytes(ini_get('uploa
 ?>
 <!DOCTYPE html>
 <html><head>
-	<title>ISO Mirror</title>
+	<title>Puri files Mirror</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 </script>
 	<script src="stars.js"></script>
@@ -520,6 +520,6 @@ $(function(){
 	</tr></thead><tbody id="list">
 
 	</tbody></table>
-	<footer>ISO Mirror | by NoNameUwU</footer>
+	<footer>Files Mirror | by Puri</footer>
 </div>
 </body></html>
